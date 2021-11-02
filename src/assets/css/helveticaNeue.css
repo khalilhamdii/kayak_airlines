@@ -1,0 +1,72 @@
+@font-face {
+  font-family: HelveticaNeue;
+  src: url(./../fonts/HelveticaNeueThin.woff2?h=d5071b0eab4da9fe69e60812c092356c)
+      format('woff2'),
+    url(./../fonts/HelveticaNeueThin.woff?h=d5071b0eab4da9fe69e60812c092356c)
+      format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: HelveticaNeue;
+  src: url(./../fonts/HelveticaNeueRegular.woff2?h=d5071b0eab4da9fe69e60812c092356c)
+      format('woff2'),
+    url(./../fonts/HelveticaNeueRegular.woff?h=d5071b0eab4da9fe69e60812c092356c)
+      format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: HelveticaNeue;
+  src: url(./../fonts/HelveticaNeueItalic.woff2?h=d5071b0eab4da9fe69e60812c092356c)
+      format('woff2'),
+    url(./../fonts/HelveticaNeueItalic.woff?h=d5071b0eab4da9fe69e60812c092356c)
+      format('woff');
+  font-weight: 100;
+  font-style: italic;
+}
+@font-face {
+  font-family: HelveticaNeue;
+  src: url(./../fonts/HelveticaNeueLight.woff2?h=d5071b0eab4da9fe69e60812c092356c)
+      format('woff2'),
+    url(./../fonts/HelveticaNeueLight.woff?h=d5071b0eab4da9fe69e60812c092356c)
+      format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: HelveticaNeue;
+  src: url(./../fonts/HelveticaNeueMedium.woff2?h=d5071b0eab4da9fe69e60812c092356c)
+      format('woff2'),
+    url(./../fonts/HelveticaNeueMedium.woff?h=d5071b0eab4da9fe69e60812c092356c)
+      format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: HelveticaNeue;
+  src: url(./../fonts/HelveticaNeueBold.woff2?h=d5071b0eab4da9fe69e60812c092356c)
+      format('woff2'),
+    url(./../fonts/HelveticaNeueBold.woff?h=d5071b0eab4da9fe69e60812c092356c)
+      format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: HelveticaNeue;
+  src: url(./../fonts/HelveticaNeueBlackCond.woff2?h=d5071b0eab4da9fe69e60812c092356c)
+      format('woff2'),
+    url(./../fonts/HelveticaNeueBlackCond.woff?h=d5071b0eab4da9fe69e60812c092356c)
+      format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: HelveticaNeue;
+  src: url(./../fonts/HelveticaNeueHeavy.woff2?h=d5071b0eab4da9fe69e60812c092356c)
+      format('woff2'),
+    url(./../fonts/HelveticaNeueHeavy.woff?h=d5071b0eab4da9fe69e60812c092356c)
+      format('woff');
+  font-weight: 900;
+  font-style: normal;
+}

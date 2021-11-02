@@ -1,0 +1,40 @@
+.card {
+  color: #192024;
+  margin: 8px;
+  width: 300px;
+  height: 240px;
+  border-radius: 8px;
+  font-size: 16px;
+  box-shadow: 0 -1px 4px 0 rgba(25, 32, 36, 0.04),
+    0 3px 6px 0 rgba(25, 32, 36, 0.16);
+}
+
+.card:hover {
+  border: 1px solid #363f45;
+}
+
+.card:hover .company-details {
+  font-size: 14px;
+}
+
+.card:hover .extra-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.company-logo {
+  width: 32px;
+  height: 32px;
+}
+
+.company-details {
+  margin-left: 18px;
+}
+
+.extra-details {
+  display: none;
+}
+
+.company-site {
+  color: #5a6872;
+}
